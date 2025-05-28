@@ -1,0 +1,23 @@
+{
+  "name": "software-dev-course-unit-testing-chrissy-r",
+  "version": "1.0.0",
+  "description": "This is the README.md file! I, as the presenter, will fill it with content!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cahhi/software-dev-course-unit-testing-chrissy-r.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cahhi/software-dev-course-unit-testing-chrissy-r/issues"
+  },
+  "homepage": "https://github.com/cahhi/software-dev-course-unit-testing-chrissy-r#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
